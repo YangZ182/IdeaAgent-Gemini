@@ -1,0 +1,10 @@
+/.env
+/.idea-agent/
+/.venv/
+/.npm-cache/
+/.uv-cache/
+/.uv-python/
+/.tools/
+/__pycache__/
+/InsightToast-demo/frontend/node_modules/
+/InsightToast-demo/frontend/dist/
